@@ -1,3 +1,13 @@
+![Screenshot (12)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/2c428770-6e84-4442-805d-f19acbf9bdb9)
+![Screenshot (11)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/d3e7498e-78af-45e8-a946-237bfb5b4934)
+![Screenshot (10)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/c735691a-a769-40ba-b6dd-c941d49151a3)
+![Screenshot (9)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/2688d350-6ee0-4856-b3d4-149b29c8ee7e)
+![Screenshot (8)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/81811fdf-1bd9-4890-9c22-eb549371daeb)
+![Screenshot (7)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/9400932d-7e70-4263-8bcc-008ee9c66250)
+![Screenshot (6)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/58e6746d-cea7-4887-a931-e1eecbb91e8a)
+![Screenshot (5)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/16d6d69f-cdf1-4b7e-a5d7-f88311e87d61)
+![Screenshot (4)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/00038a17-fd6a-4d79-9c6e-5fc5855b5202)
+![Screenshot (3)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/b7ad3e88-eb4c-4ef7-867b-666b28e96f2d)
 
 **Video Shop Rental Application**
 
