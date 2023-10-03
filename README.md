@@ -7,7 +7,7 @@
 ![Screenshot (6)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/58e6746d-cea7-4887-a931-e1eecbb91e8a)
 ![Screenshot (5)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/16d6d69f-cdf1-4b7e-a5d7-f88311e87d61)
 ![Screenshot (4)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/00038a17-fd6a-4d79-9c6e-5fc5855b5202)
-![Screenshot (3)](https://github.com/Dattatrijatla/Video-Shop-Rental-Application/assets/85497931/b7ad3e88-eb4c-4ef7-867b-666b28e96f2d)
+
 
 **Video Shop Rental Application**
 
